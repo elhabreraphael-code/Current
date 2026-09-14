@@ -1,0 +1,19 @@
+Current 1.1.0
+
+Drag Current.app onto the Applications shortcut, then open Current from Applications.
+
+Choose from five animation styles in the Current window. Close the window to
+keep Current in your menu bar. Click its lightning icon to reopen or quit.
+
+This universal build supports Apple silicon and Intel Macs, with macOS 13 or
+later as its deployment target. Runtime testing was performed on Apple silicon.
+
+This locally signed build is not notarized by Apple. macOS may require you to
+approve its first launch in System Settings > Privacy & Security. Only do so
+if you trust the source. You can also build the app from the included public
+source using Apple's Command Line Tools.
+
+No account, network connection, or Accessibility permissions are required.
+Preferences are stored locally. Sound is optional.
+
+Licensed under the MIT License. See the source repository for its full text.
