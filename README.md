@@ -2,6 +2,8 @@
 
 **A small moment for your Mac.**
 
+[⬇ Download Current for Mac — v1.0.0](https://github.com/elhabreraphael-code/Current/releases/tag/V1.0.0)
+
 Current is a native macOS menu bar app that quietly acknowledges plugging in and
 unplugging power. Five understated animations, a gentler reverse on disconnect,
 and optional soft sound. Built with SwiftUI, AppKit, and IOKit. MIT licensed.
